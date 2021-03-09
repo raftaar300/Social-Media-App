@@ -1,6 +1,4 @@
-# Login-Logout-Signup-System
-Login-Logout-Signup System
-
+#Full Stack Social Media App
 
 PLEASE ENTER FOLLOWING COMMANDS IN BOTH FOLDER 
 
